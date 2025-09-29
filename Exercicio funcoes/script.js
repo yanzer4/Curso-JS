@@ -33,3 +33,5 @@ function meuEscopo() {
 
 
 meuEscopo();
+
+console.log("teste")
