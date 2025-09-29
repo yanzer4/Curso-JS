@@ -1,0 +1,14 @@
+//                0       1        2                    indexadores
+const alunos = ['Yan', 'Joice', 'Lucia']
+
+
+// delete alunos [1]  //remove um elemento porém não altera o indice.
+// alunos.shift();         //remove do começo
+// alunos.pop();        //remove do final
+// alunos.unshift('Karma')  // adiciona no começo
+// alunos.push('Galo')   //adiciona ao fim
+// alunos[alunos.lenght] = 'Oriana' // adiciona ao fim mas deve saber o indexador
+
+
+
+// <h1>O seu número é <span id="numero-titulo">0</span></h1>
